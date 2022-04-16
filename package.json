@@ -1,9 +1,9 @@
 {
-  "name": "datocms-plugin-theme-selector",
-  "description": "A plugin for DatoCMS that allows you select a color from a predefined list.",
-  "version": "2.1.0",
+  "name": "datocms-plugin-theme-selector-with-fixes",
+  "description": "A plugin for DatoCMS that allows you select a color from a predefined list. Version with fixes.",
+  "version": "@gizyk/datocms-plugin-theme-selector",
   "license": "MIT",
-  "homepage": "https://github.com/thebuilder/datocms-plugin-theme-selector#readme",
+  "homepage": "https://github.com/gizyk/datocms-plugin-theme-selector#readme",
   "author": "Daniel Schmidt",
   "scripts": {
     "dev": "vite",
@@ -18,7 +18,7 @@
   "main": "dist/index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebuilder/datocms-plugin-theme-selector"
+    "url": "https://github.com/gizyk/datocms-plugin-theme-selector"
   },
   "keywords": [
     "datocms",
